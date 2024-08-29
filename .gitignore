@@ -1,0 +1,7 @@
+vendor/
+device/
+kernel_platform/prebuilts-master/
+kernel_platform/prebuilts/
+out/
+kernel_platform/host_tools/
+build.txt
